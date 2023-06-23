@@ -1,0 +1,24 @@
+{
+  "name": "pinpad--ppc-930",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysh-rael/pinpad--ppc-930.git"
+  },
+  "keywords": [
+    "pinpad",
+    "ppc",
+    "930"
+  ],
+  "author": "Ysh-rael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysh-rael/pinpad--ppc-930/issues"
+  },
+  "homepage": "https://github.com/ysh-rael/pinpad--ppc-930#readme"
+}
